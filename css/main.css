@@ -158,7 +158,7 @@ a:hover{
 }
 @media screen and (max-width: 900px){
   .theme{
-    font-size: 15px;
+    font-size: 20px;
     margin-top: 10%;
     padding: 3%; 
   }
